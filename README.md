@@ -1,6 +1,6 @@
 ### Olá mundo! Sou o Rulian!
 
-  >Estou no 4° Semestre de Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
+  ->Estou no 4° Semestre de Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
