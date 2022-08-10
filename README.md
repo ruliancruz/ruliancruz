@@ -1,14 +1,6 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruliancruz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true)
-
 ### Olá mundo! Sou o Rulian!
 
-    Estou no 4° Semestre de Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
+  >Estou no 4° Semestre de Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
@@ -29,8 +21,4 @@
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
 </div>
-  
-##
-  
-![Snake animation](https://github.com/ruliancruz/ruliancruz/blob/output/github-contribution-grid-snake.svg)
 
