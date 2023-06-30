@@ -2,19 +2,21 @@
 
   - Estou no 6° Semestre de Licenciatura em Computação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
   - Sou Técnico em Eletromecânica
-
 <div align="center">
-  <div align="left">
-    <a href="https://github.com/ruliancruz">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&include_all_commits=true&count_private=true"/>
-  </div>
-  <div align="left">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7"/>
+  <div align="center">
+    <div align="left">
+      <a href="https://github.com/ruliancruz">
+      <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&include_all_commits=true&count_private=true"/>
+    </div>
+    <div align="left">
+      <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7"/>
+    </div>
   </div>
   <div align="right">
     <a href="https://roadmap.sh"><img height="164em" src="https://api.roadmap.sh/v1-badge/tall/649e2e15d99c9d6731a12256?variant=light&roadmaps=backend%2Cfrontend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
   </div>
 </div>
+
   
 <div style="display: inline_block">
   <br>
