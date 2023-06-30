@@ -7,7 +7,7 @@
   <a href="https://github.com/ruliancruz">
   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7"/>
-  <a href="https://roadmap.sh"><img height="164em" src="https://api.roadmap.sh/v1-badge/tall/649e2e15d99c9d6731a12256?variant=light&roadmaps=backend%2Cfrontend%2Cfull-stack%2Cjava" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img height="164em" src="https://api.roadmap.sh/v1-badge/tall/649e2e15d99c9d6731a12256?variant=light&roadmaps=backend%2Cfrontend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 </div>
   
 <div style="display: inline_block">
