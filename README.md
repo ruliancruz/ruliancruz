@@ -4,7 +4,7 @@
   - Sou Técnico em Eletromecânica
 
 <div style="display: inline_block">
-  <div style="display: block">
+  <div style="display: grid">
     <a href="https://github.com/ruliancruz">
     <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7"/>
