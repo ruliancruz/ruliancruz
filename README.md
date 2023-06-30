@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
-  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7&theme=cobalt"/>
   <a href="https://roadmap.sh"><img height="164em" src="https://api.roadmap.sh/v1-badge/tall/649e2e15d99c9d6731a12256?variant=dark&roadmaps=backend%2Cfrontend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 </div>
   
