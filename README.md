@@ -19,8 +19,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <img alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+  <img alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 </div>
