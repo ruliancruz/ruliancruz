@@ -2,8 +2,6 @@
 
   - 📖 I'm in the 6th Semester of degree in computing at the Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
   - 💡 I'm an electromechanical technician
-  - 🖥️ I'm a backend developer
-  - 🕹️ I'm a game developer
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
