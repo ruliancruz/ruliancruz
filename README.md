@@ -1,7 +1,7 @@
 ### Hello World! I'm Rulian!
 
   - 📖 I'm in the 6th Semester of degree in computing at the Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
-  - 💡 I'm an electromechanical technician
+  - 💡 I'm an Electromechanical Technician
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
