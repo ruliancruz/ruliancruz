@@ -1,7 +1,8 @@
 ### Hello World! I'm Rulian!
 
-  - 📖 I'm in the 6th Semester of Degree in Computing at the Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
+  - 📖 I'm in the 7th Semester of Degree in Computing at the Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Jacobina
   - 💡 I'm an Electromechanical Technician
+  - 💻 Currently, I'm focusing my studies on back-end development, using Java Spring Boot
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
