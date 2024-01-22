@@ -2,7 +2,7 @@
 
   - 📖 I'm in the 7th semester of Degree in Computing at the IFBA (Instituto Federal da Bahia) - Campus Jacobina
   - 💡 I'm an Electromechanical Technician graduated from the IFBA - Campus Jacobina too
-  - 💻 Currently, I'm focusing my studies on Backend and Frontend Development using Java Spring Boot and JavaScript
+  - 💻 Currently, I'm focusing my studies on back-end and front-end Development using Java Spring Boot and JavaScript
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
