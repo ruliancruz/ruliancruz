@@ -1,7 +1,7 @@
 ### Hello World! I'm Rulian!
 
-  - 📖 I'm in the 7th semester of Degree in Computing at the IFBA (Instituto Federal da Bahia) - Campus Jacobina
-  - 💡 I'm an Electromechanical Technician graduated from the IFBA - Campus Jacobina too
+  - 📖 I'm in the 7th semester of Degree in Computing at IFBA (Instituto Federal da Bahia) - Campus Jacobina
+  - 💡 I'm an Electromechanical Technician graduated at IFBA - Campus Jacobina too
   - 💻 Currently, I'm focusing my studies on Ruby on Rails
 
 <div align="center">
