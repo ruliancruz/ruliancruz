@@ -10,7 +10,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=7"/>
 </div>
   
-<div style="display: inline_block; text-align: center">
+<div style="display: inline_block; align: center">
   <br>
   <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Spring" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
