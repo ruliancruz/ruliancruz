@@ -10,7 +10,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=8"/>
 </div>
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: inline-block">
   <img align="center" alt="Ruby" height="30" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rails" height="30" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Java" height="30" width="34" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
