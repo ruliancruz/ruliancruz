@@ -1,5 +1,6 @@
 ### Hello World! I'm Rulian!
 
+  - 📖 I'm a Software Developer at Rebase
   - 📖 I'm in the 7th semester of Computing Degree at IFBA (Instituto Federal da Bahia) - Campus Jacobina
   - 💡 I'm Electromechanical Technician graduated at IFBA - Campus Jacobina too
   - 💻 Currently, I'm focusing my studies on Ruby on Rails
