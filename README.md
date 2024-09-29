@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/ruliancruz">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=12"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=10"/>
 </div>
 <br>
 <div style="display: inline-block">
@@ -33,6 +33,6 @@
   <img align="center" alt="MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="SQL Server" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Docker" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="WordPress" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Ubuntu" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
