@@ -6,8 +6,8 @@ Additionally, I actively contributed to several educational projects and academi
 
 ## 📚 Education
 
-- Computing Degree Student at [Instituto Federal da Bahia - Campus Jacobina](https://portal.ifba.edu.br/jacobina/cursos/superior/Licenciatura/curso-superior-informatica)
-- Electromechanical Technician at [Instituto Federal da Bahia - Campus Jacobina](https://portal.ifba.edu.br/jacobina/cursos/subsequente/eletromecanica)
+- Computing Degree Student at [Instituto Federal da Bahia](https://portal.ifba.edu.br/jacobina/cursos/superior/Licenciatura/curso-superior-informatica)
+- Electromechanical Technician at [Instituto Federal da Bahia](https://portal.ifba.edu.br/jacobina/cursos/subsequente/eletromecanica)
 - Alumini of [TreinaDev](https://treinadev.com.br) Class 12
 
 ## 🛠️ Tech Stack
