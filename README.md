@@ -1,5 +1,13 @@
 # Hello World! 👋 I'm Rulian Cruz
 
+<div align="center">
+  <a href="https://github.com/ruliancruz">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=10"/>
+</div>
+
+## 🚀 About Me
+
 Nearly 2 years developing software to help people achieve their goals with technologies that most suit them. I’m skilled in Ruby, React, and DevOps with a good knowledge of Java, PHP, and C# and a strong digital marketing background.
 
 Additionally, I actively contributed to several educational projects and academic events, driving digital culture forward by teaching and conducting workshops that help people understand and use technology. Furthermore, I acted as a student representative in several departments at my college.
@@ -18,10 +26,4 @@ Additionally, I actively contributed to several educational projects and academi
 - **Testing**: RSpec, Capybara, Cypress, Axe, JUnit
 - **DevOps**: Docker, Kubernetes, CI/CD
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ruliancruz">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ruliancruz&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=10"/>
-</div>
+**Take a look at my repositories and let's build something together!** 💡
