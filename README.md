@@ -13,7 +13,7 @@ Additionally, I actively contributed to several educational projects and academi
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: Ruby, Java, PHP, TypeScript, JavaScript, C#, C, Shell Script
-- **Frameworks**: Ruby on Rails, Sinatra, Spring Boot, React, Vue, Tailwind, Bootstrap, Swing, .NET Framework, Unity3D
+- **Frameworks**: Rails, Sinatra, Spring Boot, React, Vue, Tailwind, Bootstrap, Swing, .NET Framework, Unity3D
 - **Databases**: PostgreSQL, SQLite, MySQL, SQL Server, SQL Server CE
 - **Testing**: RSpec, Capybara, Cypress, Axe, JUnit
 - **DevOps**: Docker, Kubernetes, CI/CD
