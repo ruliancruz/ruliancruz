@@ -10,7 +10,7 @@ Additionally, I actively contributed to several educational projects and academi
 - Electromechanical Technician at [Instituto Federal da Bahia](https://portal.ifba.edu.br/jacobina/cursos/subsequente/eletromecanica)
 - Alumini of [TreinaDev](https://treinadev.com.br) Class 12
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 - **Programming Languages**: Ruby, Java, PHP, TypeScript, JavaScript, C#, C, Shell Script
 - **Frameworks**: Rails, Sinatra, Spring Boot, React, Vue, Tailwind, Bootstrap, Swing, .NET Framework, Unity3D
