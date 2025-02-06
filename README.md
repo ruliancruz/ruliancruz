@@ -8,9 +8,11 @@
 
 ## 🚀 About Me
 
-Nearly 2 years developing software to help people achieve their goals with technologies that most suit them. I’m skilled in Ruby, React, and DevOps with a good knowledge of Java, PHP, and C# and a strong digital marketing background.
+👋 Great to meet you! I'm a Software Developer who has spent nearly 2 years building applications to help people achieve their goals using the best-fit technologies.
 
-Additionally, I actively contributed to several educational projects and academic events, driving digital culture forward by teaching and conducting workshops that help people understand and use technology. Furthermore, I acted as a student representative in several departments at my college.
+🤓 I’m skilled in Ruby, React, and DevOps. I also have good Java, PHP, and C# knowledge and a strong digital marketing background.
+
+📚 Additionally, I actively contributed to several educational projects and academic events, driving digital culture forward by teaching and conducting workshops that help people understand and use technology. Furthermore, I acted as a student representative in several departments at my college.
 
 ## 🛠️ Stack
 
