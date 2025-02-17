@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-👋 Great to meet you! I'm a Software Developer who has spent nearly 2 years building applications to help people achieve their goals using the best-fit technologies.
+👋 Great to meet you! I'm a Software Developer who builds applications to help people achieve their goals using the best-fit technologies.
 
 🤓 I’m skilled in Ruby and TypeScript/JavaScript ecosystems, and DevOps. I also have good Java, PHP, and C# knowledge and a strong digital marketing background.
 
