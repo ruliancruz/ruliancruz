@@ -17,7 +17,7 @@
 ## 🛠️ Stack
 
 - **Programming Languages**: Ruby, Java, PHP, TypeScript, JavaScript, C#, C, Shell Script
-- **Frameworks**: Rails, Sinatra, Express, Spring Boot, React, Vue, Tailwind, Bootstrap, Swing, .NET Framework, Unity3D
+- **Frameworks**: Rails, Sinatra, Express, Spring Boot, React, Vue, jQuery, Tailwind, Bootstrap, Swing, .NET Framework, Unity3D
 - **Databases**: PostgreSQL, SQLite, MySQL, SQL Server, SQL Server CE, Redis
 - **Testing**: RSpec, Capybara, Cypress, Axe, JUnit
 - **DevOps**: Docker, Containerd, Kubernetes, CI/CD
