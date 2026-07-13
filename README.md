@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ruliancruz">
-  <img height="500em" alt="Language Stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&langs_count=20"/>
+  <img height="290em" alt="Commit Stats" src="https://github-stats-extended.vercel.app/api?username=ruliancruz&show_icons=true&hide=stars&show=reviews&include_all_commits=false&count_private=true"/>
+  <img height="290em" alt="Language Stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ruliancruz&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=16"/>
 </div>
 
 ## 🚀 About Me
